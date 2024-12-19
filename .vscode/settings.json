@@ -1,5 +1,0 @@
-{
-    "dart.showTodos": true,
-    "dart.projectSearchDepth": 5,
-    "dart.flutterSdkPath": "/path/to/flutter/sdk" // Sesuaikan dengan path SDK Flutter Anda
-}
